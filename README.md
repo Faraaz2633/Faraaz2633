@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Faraz
 - 👀 I’m interested in Web Development, JavaScript, and React.js.
-- 🌱 I’m currently Node.js and MongoDB .
+- 🌱 I’m currently learning Node.js and MongoDB .
 - 💞️ I’m looking to collaborate on React JS and other JavaScript Based Libraries and Frameworks.
 - 📫 How to reach me <b>Mail ID : mdfaraz4343@gmail.com</b>
 
