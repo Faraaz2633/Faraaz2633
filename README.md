@@ -8,7 +8,7 @@
 ---
 
 🔭 **Currently:**  
-- SDE 2 @ RMgX | Building production-grade SaaS apps from scratch  
+- Software Engineer @ PriceLabs | Building production-grade SaaS apps from scratch  
 - Crafting scalable architectures with React, Next.js, Node.js, MongoDB  
 - Architecting design systems and building reusable UI libraries 🚀  
 
